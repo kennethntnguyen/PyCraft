@@ -1,0 +1,6 @@
+[submodule "MCRcon"]
+	path = MCRcon
+	url = https://github.com/kennethntnguyen/MCRcon
+[submodule "NBT"]
+	path = NBT
+	url = https://github.com/kennethntnguyen/NBT
